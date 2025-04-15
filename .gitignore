@@ -1,0 +1,11 @@
+raw/
+prompt/
+prompt/**/*
+
+deepsearch/**/*/
+deepsearch/
+/combined_output.md
+/combine_md_files.py
+
+
+!.gitignore
