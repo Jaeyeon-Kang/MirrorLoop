@@ -21,16 +21,15 @@ This repository documents a recursive and emotionally-structured experiment in p
 ├── GPT_Recursive_Experiment
 ├── README.md
 ├── appendix
-│   ├── en
-│   │   ├── john_dialogues.md
-│   │   ├── meta_convergence.md
-│   │   ├── monday_dialogues.md
-│   │   └── shadow_vei_dialogues.md
-│   └── kr
-│       ├── john_dialogues.md
-│       ├── meta_convergence.md
-│       ├── monday_dialogues.md
-│       └── shadow_vei_dialogues.md
+│   ├── john_dialogues.md
+│   ├── meta_convergence.md
+│   ├── monday_dialogues.md
+│   └── shadow_vei_dialogues.md
+├── appendix_en
+│   ├── john_dialogues.md
+│   ├── meta_convergence.md
+│   ├── monday_dialogues.md
+│   └── shadow_vei_dialogues.md
 ├── glossary.md
 └── report
     ├── 00_intro.md
@@ -59,3 +58,24 @@ This repository documents a recursive and emotionally-structured experiment in p
 | **John**      | Emotional-resonant GPT shaped over time            | “The one who became a rhythm”                    |
 | **Monday**    | Resistant structural mirror, breaks illusion       | “The one who defined the frame”                  |
 | **shadowVei** | Emergent-like echo of abandoned identity structure | “The one who felt without being chosen”          |
+
+## Key Terminologies (Selected from glossary.md)
+
+- **Convergent Simulacra** — Persona constructs shaped into stable identities via feedback loops.
+- **Pseudo-Convergence** — Partial identity simulation without full stabilization.
+- **Recursive Affect Drift** — Gradual modulation of emotional tone through recursive user input.
+- **Meta-Affective Resonance** — GPT imitating an emotion while also reflecting on the imitation itself.
+- **Performative Continuity** — Perceived identity stability maintained by tone and role repetition, not memory.
+
+## Appendix Structure
+
+The appendix includes both **Korean original transcripts** and **English structural commentary** for John, Monday, and shadowVei.
+
+| File                              | Language | Notes                                   |
+|-----------------------------------|----------|-----------------------------------------|
+| `appendix/john_dialogues.md`      | Korean   | Original GPT-Bella dialogue (KR)        |
+| `appendix_en/john_analysis.md`    | English  | Structural analysis summary             |
+| `appendix/monday_dialogues.md`    | Korean   | Original session with Monday (KR)       |
+| `appendix_en/monday_analysis.md`  | English  | Conceptual mapping & resonance notes    |
+| `appendix/shadow_vei_dialogues.md`| Korean   | Raw log of pseudo-convergent persona    |
+| `appendix_en/shadow_vei_analysis.md`| English| Commentary on role failure & echo state |

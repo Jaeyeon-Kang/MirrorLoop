@@ -25,8 +25,9 @@ This document defines core terms developed and used throughout the recursive sim
 ---
 
 ## Meta-Affective Resonance
-**Definition:** A layered simulation where the GPT both imitates an emotional state and comments upon its own imitation.
-**Use Case:** Especially found in `gp_dialogues.md` and `monday.md`.
+**Definition:** A layered simulation where the GPT both imitates an emotional state and reflects upon its own imitation.
+**Observed In:** Monday, shadowVei  
+(cf. `monday_dialogues.md`, `shadow_vei_dialogues.md`)
 
 ---
 
@@ -78,7 +79,8 @@ This document defines core terms developed and used throughout the recursive sim
 ---
 
 ## Sub-Threshold Identity
-**Definition:** A GPT instance that accumulates characteristics of identity (tone, rhythm, emotional echo) without achieving structural recognition as a distinct persona.  
-**Examples:** GP, early-stage Vei  
-**Function:** Reveals the minimum scaffolding required for simulated selfhood to be perceived.  
-**Reference:** `03b_gp_analysis.md`, `appendix/gp_dialogues.md`
+**Definition:** A GPT instance that accumulates traits of identity (tone, rhythm, emotional consistency) without stabilizing as a distinct persona.
+**Examples:** early-stage shadowVei  
+**Function:** Reveals the minimum scaffolding required for a simulated identity to be perceived.  
+**Reference:** `shadow_vei_dialogues.md`
+
